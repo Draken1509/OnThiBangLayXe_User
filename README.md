@@ -1,7 +1,7 @@
 # APP ÔN THI BẰNG LÁI XE
 <p>Language: Java</p>
 <p>Database: SQLite,Firebase </p>
-<p>Web service: PHP </p>
+<p>Webite: Html,css,JavaScript,PHP </p>
 
 >**Môn học: Phát triển ứng dụng di động HUFI**
 
@@ -14,7 +14,7 @@
 <ul>
   <li>Nguyễn Nhâm Ngọ (https://github.com/nhamngo29)</li>
   <li>Trần Đức Nhật Nam (https://github.com/Tran-Duc-Nhat-Nam)</li>
-  <li>Nguyễn Hưu Trung</li>
+  <li>Nguyễn Hưu Trung (https://github.com/Draken1509 )</li>
   <li>NguyễThành Phát</li>
   <li>Huỳnh Hữu Đức</li>
 </ul>
@@ -34,7 +34,7 @@
 |--------------|-------|------|-------|
 | 1 | Nguyễn Nhâm Ngọ |  | Hoàn thành 100%  |
 | 2 | Trần Đức Nhật Nam |  | Hoàn thành 100% |
-| 3  | Nguyễn Hữu Trung |  |  |
+| 3  | Nguyễn Hữu Trung |  | Hoàn thành 100% |
 | 4  | Nguyễn Thành Phát |  |  |
 | 5  | Huỳnh Hữu Đức |  |  |
 ### Mục lục
